@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 class Conversation {
 /*
- * java doc
+ * Code for a chatbot that mirror the words of the user and if the person doesnt type anything with the key words , they get a canner response
+ * @param arguments The program's arguments
  */
 
   public static void main(String[] arguments) {
